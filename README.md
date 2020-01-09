@@ -1,3 +1,3 @@
-# Programming in C (4th Edition)的代码
+# Programming in C (4th Edition)的自用代码
 
-使用Portable C Compiler 1.2.0.DEVEL 20191220编译通过
+使用clang 9.0.1编译通过
